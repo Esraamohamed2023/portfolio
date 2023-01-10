@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import"./About.css"
-import any from"../../Images/any.gif"
+import wup from"../../Images/wup.jpeg"
 import {FaAward}from"react-icons/fa"
 import {FiUsers}from"react-icons/fi"
 import {VscFolderLibrary}from"react-icons/vsc"
@@ -16,7 +16,7 @@ export default function About() {
     <div className="container about_container">
     <div className="about_me">
     <div className="about_me-image" data-aos="fade-right">
-    <img src={any} />
+    <img src={wup} />
     </div>
     
     </div>

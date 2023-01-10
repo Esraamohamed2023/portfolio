@@ -1,6 +1,7 @@
 #Experience {
     height: 75vh;
     transition: var(--transitions);
+    margin-top: 0;
 }
 
 .Experience {
