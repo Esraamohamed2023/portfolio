@@ -1,7 +1,7 @@
 #Experience {
-    height: 75vh;
+    height: 90vh;
     transition: var(--transitions);
-    margin-top: 0;
+    /* margin-top: 0;  */
 }
 
 .Experience {
@@ -12,6 +12,9 @@
 
 .experience_container {
     width: max-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .experience_container>div {
@@ -21,6 +24,7 @@
     border: 1px solid transparent;
     transition: var(--transitions);
     width: 600px;
+    margin: 20px 10px;
 }
 
 .experience_container>div:hover {
@@ -39,7 +43,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
-    column-gap: 8rem;
+    /* column-gap: 8rem; */
 }
 
 .experience_details {
@@ -56,7 +60,7 @@
 
 @media screen and (max-width: 600px) {
     .experience_container>div {
-        width: 350px;
+        width: 100%;
         padding: 2.4rem 2rem;
     }
     .experience_content {
@@ -64,5 +68,6 @@
     }
     #Experience {
         margin-top: 7rem;
+        height: 120vh;
     }
 }

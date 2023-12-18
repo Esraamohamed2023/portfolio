@@ -25,7 +25,7 @@ export default function About() {
     <article className='about_card' data-aos="fade-up">
     <FaAward className='about_icon'/>
     <h5>Experience</h5>
-    <small>1+ Year Working</small>
+    <small>2+ Year Working</small>
     </article>
     <article className='about_card' data-aos="fade-down">
     <FiUsers className='about_icon'/>

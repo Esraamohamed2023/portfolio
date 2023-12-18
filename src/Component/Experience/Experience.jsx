@@ -34,6 +34,42 @@ export default function Experience() {
     </article>
     <article className='experience_details'>
     <BsPatchCheckFill className='experience_details-icon'/>
+   <div> <h4>React</h4>
+   <small className='text-light'>Experienced</small></div>
+    </article>
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
+   <div> <h4>Figma</h4>
+   <small className='text-light'>Experienced</small></div>
+    </article>
+    </div>
+    </div>
+ <div className="experience_frontend">
+    <h3>Backend Development</h3>
+    <div className="experience_content">
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
+    <div> <h4>PHP /OOP</h4>
+    <small className='text-light'>Experienced</small></div>
+   
+    </article>
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
+    <div><h4>Mysql</h4>
+    <small className='text-light'>Experienced </small></div>
+    </article>
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
+   <div> <h4>Laravel</h4>
+   <small className='text-light'>Experienced</small></div>
+    </article>
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
+   <div> <h4>Bootstrap</h4>
+   <small className='text-light'>Experienced</small></div>
+    </article>
+    <article className='experience_details'>
+    <BsPatchCheckFill className='experience_details-icon'/>
    <div> <h4>Tailwind</h4>
    <small className='text-light'>Experienced</small></div>
     </article>
