@@ -15,10 +15,17 @@ export default function Portfolio() {
     <div className="portfolio_item-image">
     <img src={port1}/>
     </div>
+<<<<<<< HEAD
     <h3>Ecommerce Website</h3>
     <div className="portfolio_item-cta">
     <a href="https://github.com" className='btn' target="_blank">Gighub</a>
     <a href="https://esraamohamed2023.github.io/Task-10024/" className='btn btn-primary' target="_blank">Live Demo</a>
+=======
+    <h3>Bootstrap_project</h3>
+    <div className="portfolio_item-cta">
+    <a href="https://github.com" className='btn' target="_blank">Gighub</a>
+    <a href="https://esraamohamed2023.github.io/Bootstrap_project/" className='btn btn-primary' target="_blank">Live Demo</a>
+>>>>>>> 15105bae0add1c9c82a2f5129dc5ce2f2764bbfb
     </div>
     </article>
     <article className='portfolio_item' data-aos="fade-right">
@@ -46,11 +53,30 @@ export default function Portfolio() {
     <div className="portfolio_item-image">
     <img src={port4}/>
     </div>
+<<<<<<< HEAD
     <h3>Ticket</h3>
 
     <div className="portfolio_item-cta">
     <a href="Esraamohamed2023/Login" className='btn' target="_blank">Gighub</a>
     <a href="https://esraamohamed2023.github.io/ticket/" className='btn btn-primary' target="_blank">Live Demo</a>
+=======
+    <h3>dessert_project</h3>
+
+    <div className="portfolio_item-cta">
+    <a href="Esraamohamed2023/Login" className='btn' target="_blank">Gighub</a>
+    <a href="https://esraamohamed2023.github.io/dessert_project/" className='btn btn-primary' target="_blank">Live Demo</a>
+    </div>
+    </article>
+        <article className='portfolio_item' data-aos="fade-down">
+    <div className="portfolio_item-image">
+    <img src={port4}/>
+    </div>
+    <h3>ecommerce site</h3>
+
+    <div className="portfolio_item-cta">
+    <a href="Esraamohamed2023/Login" className='btn' target="_blank">Gighub</a>
+    <a href="https://esraamohamed2023.github.io/Task-10024/" className='btn btn-primary' target="_blank">Live Demo</a>
+>>>>>>> 15105bae0add1c9c82a2f5129dc5ce2f2764bbfb
     </div>
 
     </article>
