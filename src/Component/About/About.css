@@ -5,8 +5,9 @@
 }
 
 #About {
-    height: 90vh;
+    height: auto;
     transition: var(--transitions);
+    margin-bottom: 40px;
 }
 
 .about_me {

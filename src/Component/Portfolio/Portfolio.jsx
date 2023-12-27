@@ -13,17 +13,32 @@ export default function Portfolio() {
     <div className="container portfolio_container">
     <article className='portfolio_item' data-aos="fade-left">
     <div className="portfolio_item-image">
-    <img src={port1}/>
+    
     </div>
-    <h3>Ecommerce Website</h3>
+    <h3>Burger Website</h3>
     <div className="portfolio_item-cta">
     <a href="https://github.com" className='btn' target="_blank">Gighub</a>
     <a href="https://esraamohamed2023.github.io/Task-10024/" className='btn btn-primary' target="_blank">Live Demo</a>
     </div>
     </article>
+  <article className='portfolio_item' data-aos="fade-left">
+    <div className="portfolio_item-image">
+   
+    </div>
+    <h3>Ecommerce Website</h3>
+    <div className="portfolio_item-cta">
+    <a href="https://github.com/Esraamohamed2023/ecommerce" className='btn' target="_blank">Gighub</a>
+    <a href="http://zesty-smile.surge.sh/" className='btn btn-primary' target="_blank">Live Demo</a>
+    </div>
+    </article>
+
+
+
+
+
     <article className='portfolio_item' data-aos="fade-right">
     <div className="portfolio_item-image">
-    <img src={port5}/>
+   
     </div>
     <h3>Bootstrap_project</h3>
     <div className="portfolio_item-cta">
@@ -34,17 +49,28 @@ export default function Portfolio() {
     </article>
     <article className='portfolio_item' data-aos="fade-up">
     <div className="portfolio_item-image">
-    <img src={port3}/>
+   
     </div>
-    <h3>dessert_project</h3>
+    <h3>Dessert_project</h3>
     <div className="portfolio_item-cta">
     <a href="https://github.com" className='btn' target="_blank">Gighub</a>
     <a href="https://esraamohamed2023.github.io/dessert_project/" className='btn btn-primary' target="_blank">Live Demo</a>
     </div>
     </article>
+
+<article className='portfolio_item' data-aos="fade-up">
+    <div className="portfolio_item-image">
+   
+    </div>
+    <h3>Dashboard</h3>
+    <div className="portfolio_item-cta">
+    <a href="https://github.com/Esraamohamed2023/dashboard" className='btn' target="_blank">Gighub</a>
+    <a href="https://esraamohamed2023.github.io/dessert_project/" className='btn btn-primary' target="_blank">Live Demo</a>
+    </div>
+    </article>
     <article className='portfolio_item' data-aos="fade-down">
     <div className="portfolio_item-image">
-    <img src={port4}/>
+   
     </div>
     <h3>Ticket</h3>
 

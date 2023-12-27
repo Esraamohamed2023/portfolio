@@ -1,5 +1,5 @@
 #Experience {
-    height: 90vh;
+    height: auto;
     transition: var(--transitions);
     /* margin-top: 0;  */
 }
